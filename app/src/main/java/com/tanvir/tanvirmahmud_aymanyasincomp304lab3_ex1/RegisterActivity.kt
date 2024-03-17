@@ -66,9 +66,7 @@ class RegisterActivity : AppCompatActivity() {
             startActivity(intent)
 
 
-            // Now you can use these values as needed, such as sending them to a server or storing them locally.
-            // Example:
-            // sendDataToServer(nurseId, firstName, lastName, department, password)
+
         }
     }
 }
