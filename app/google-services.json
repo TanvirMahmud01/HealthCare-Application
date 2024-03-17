@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230606549394",
+    "project_id": "comp304lab3-ex1",
+    "storage_bucket": "comp304lab3-ex1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230606549394:android:0771f7356b551519ec514b",
+        "android_client_info": {
+          "package_name": "com.tanvir.tanvirmahmud_aymanyasincomp304lab3_ex1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIS6Rqtfazk3axBXDYrGxcYcCGT4BFqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
